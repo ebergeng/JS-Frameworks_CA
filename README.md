@@ -16,7 +16,7 @@ To set up this project on your local machine, follow these instructions:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/ebergeng/JS-Frameworks_CA.git
 
 2. Navigate to the project directory:
    ```bash
