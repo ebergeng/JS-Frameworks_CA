@@ -36,9 +36,9 @@ To set up this project on your local machine, follow these instructions:
 
 ### Code Formatting
 
-To format the code using Prettier:
+1. To format the code using Prettier:
    ```bash
-   npm run format
+    npm run format
 
 ### Dependencies
  - React Router for routing.
@@ -47,7 +47,3 @@ To format the code using Prettier:
 
 ### Dev Dependencies
 - Prettier for code formatting.
-
-Please replace the screenshot file name and the repository URL with the actual ones you are using for this project. The `![screenshot of the e-commerce store front page](frontpage-screenshot.png)` line assumes that you have a screenshot of your project's front page named `frontpage-screenshot.png` in your repository.
-
-Make sure to update the repository URL `https://github.com/your-username/your-repository-name.git` with the actual URL of your GitHub repository for the JavaScript Frameworks Course Assignment.
