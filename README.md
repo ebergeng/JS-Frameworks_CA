@@ -20,7 +20,7 @@ To set up this project on your local machine, follow these instructions:
 
 2. Navigate to the project directory:
    ```bash
-   cd react-ecommerce-store
+   cd JS-Frameworks_CA
 
 3. Install the dependencies:
    ```bash
